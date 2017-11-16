@@ -1,0 +1,3 @@
+tokens
+let
+	^ 'LET' asParser

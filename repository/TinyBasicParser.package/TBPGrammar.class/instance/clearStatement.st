@@ -1,0 +1,3 @@
+statement
+clearStatement
+	^ 'CLEAR' asParser

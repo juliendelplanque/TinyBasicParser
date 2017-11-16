@@ -1,0 +1,3 @@
+statement
+runStatement
+	^ 'RUN' asParser

@@ -1,0 +1,3 @@
+tokens
+input
+	^ 'INPUT' asParser

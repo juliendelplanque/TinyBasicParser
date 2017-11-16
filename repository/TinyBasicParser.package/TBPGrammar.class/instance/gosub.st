@@ -1,0 +1,3 @@
+tokens
+gosub
+	^ 'GOSUB' asParser

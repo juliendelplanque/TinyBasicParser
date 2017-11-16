@@ -1,0 +1,3 @@
+statement
+endStatement
+	^ 'END' asParser

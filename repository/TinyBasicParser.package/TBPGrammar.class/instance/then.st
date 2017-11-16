@@ -1,0 +1,3 @@
+tokens
+then
+	^ 'THEN' asParser

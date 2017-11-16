@@ -1,0 +1,3 @@
+tokens
+if
+	^ 'IF' asParser

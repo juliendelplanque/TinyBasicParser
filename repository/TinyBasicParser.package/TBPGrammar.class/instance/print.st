@@ -1,0 +1,3 @@
+tokens
+print
+	^ 'PRINT' asParser

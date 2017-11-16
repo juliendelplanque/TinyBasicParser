@@ -1,0 +1,3 @@
+tokens
+goto
+	^ 'GOTO' asParser
