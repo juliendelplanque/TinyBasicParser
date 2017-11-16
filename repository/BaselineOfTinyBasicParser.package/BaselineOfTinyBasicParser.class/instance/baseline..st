@@ -11,4 +11,4 @@ baseline: spec
 				className: 'ConfigurationOfPetitParser';
 				version: #stable;
 				repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo50/main';
-				group: 'Core' ] ]
+				loads: #('Core' 'Tests' 'Gui') ] ]
