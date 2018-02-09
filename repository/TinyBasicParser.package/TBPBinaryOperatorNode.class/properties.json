@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JulienDelplanque 2/9/2018 17:32",
+	"super" : "TBPASTNode",
+	"category" : "TinyBasicParser-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"leftExpression",
+		"rightExpression"
+	],
+	"name" : "TBPBinaryOperatorNode",
+	"type" : "normal"
+}

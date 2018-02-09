@@ -1,0 +1,1 @@
+I am the node of the abstract syntax tree of a TinyBasic program representing the application of the plus operator on the expression on which I am applied.

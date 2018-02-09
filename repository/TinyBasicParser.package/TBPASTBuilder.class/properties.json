@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TBPGrammar",
+	"category" : "TinyBasicParser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBPASTBuilder",
+	"type" : "normal"
+}

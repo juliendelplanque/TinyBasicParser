@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JulienDelplanque 2/9/2018 17:36",
+	"super" : "TBPASTNode",
+	"category" : "TinyBasicParser-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBPParenthesedExpression",
+	"type" : "normal"
+}
