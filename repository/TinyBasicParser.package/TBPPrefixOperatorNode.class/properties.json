@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "JulienDelplanque 2/9/2018 17:36",
-	"super" : "TBPASTNode",
+	"super" : "TBPOperatorNode",
 	"category" : "TinyBasicParser-AST",
 	"classinstvars" : [ ],
 	"pools" : [ ],
