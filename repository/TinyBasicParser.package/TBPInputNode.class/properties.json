@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TBPStatementNode",
+	"category" : "TinyBasicParser-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"variablesList"
+	],
+	"name" : "TBPInputNode",
+	"type" : "normal"
+}

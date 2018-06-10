@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TBPASTNode",
+	"category" : "TinyBasicParser-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number",
+		"statement"
+	],
+	"name" : "TBPProgramLine",
+	"type" : "normal"
+}

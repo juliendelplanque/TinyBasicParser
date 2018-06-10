@@ -1,3 +1,3 @@
 program
 program
-	^ line plus separatedBy: lineEnd
+	^ line separatedBy: lineEnd

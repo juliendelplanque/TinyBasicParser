@@ -1,7 +1,7 @@
 I am a parser for Tiny Basic.
 
 I use the following BNF grammar:
-    line ::= number statement CR | statement CR
+    line ::= number statement CR
  
     statement ::= PRINT expr-list
                   IF expression relop expression THEN statement

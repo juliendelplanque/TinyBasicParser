@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TBPStatementNode",
+	"category" : "TinyBasicParser-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"leftExpression",
+		"rightExpression",
+		"booleanOperator",
+		"statement"
+	],
+	"name" : "TBPIfThenNode",
+	"type" : "normal"
+}

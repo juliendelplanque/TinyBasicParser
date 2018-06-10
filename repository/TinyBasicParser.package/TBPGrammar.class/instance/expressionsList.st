@@ -1,3 +1,3 @@
 lists
 expressionsList
-	^ (string / expression) plus separatedBy: $, asParser trim
+	^ (string / expression) separatedBy: $, asParser trim

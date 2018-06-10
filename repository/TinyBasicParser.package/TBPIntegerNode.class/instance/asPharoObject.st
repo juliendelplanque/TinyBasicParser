@@ -1,0 +1,3 @@
+converting
+asPharoObject
+	^ self asInteger
